@@ -1,0 +1,9 @@
+{
+  "name": "NextJS Sample",
+  "short_name": "NextJS Sample",
+  "display": "standalone",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+
+}
